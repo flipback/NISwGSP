@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5513AA4F-7803-4160-B04C-6907DD4AF335"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C4FEC2F-18AA-42EC-BE6E-16E6A94B9483"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "938"
+            endingLineNumber = "938"
+            landmarkName = "MultiImages::getInitialFeaturePairs(_match_pair)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2708252E-018F-46DA-8334-80D02A81DA9C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "880"
+            endingLineNumber = "880"
+            landmarkName = "MultiImages::getInitialFeaturePairs(_match_pair)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "070EF4A3-4FA5-4D8A-AA09-DD47250E6F88"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "874"
+            endingLineNumber = "874"
+            landmarkName = "MultiImages::getInitialFeaturePairs(_match_pair)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "157F6322-367D-43BF-AA77-0EBBA1B10605"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "910"
+            endingLineNumber = "910"
+            landmarkName = "MultiImages::getInitialFeaturePairs(_match_pair)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70E4B6A0-9F95-4BEF-A8E3-59BF397250F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "759"
+            endingLineNumber = "759"
+            landmarkName = "MultiImages::getFeaturePairs()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C70B4EE3-3ADA-4413-91EC-BABB88AC3E06"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "898"
+            endingLineNumber = "898"
+            landmarkName = "MultiImages::getInitialFeaturePairs(_match_pair)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E639E814-E26C-477A-92FB-A7F91AA527F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "906"
+            endingLineNumber = "906"
+            landmarkName = "MultiImages::getInitialFeaturePairs(_match_pair)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC35FAD4-7B2B-4688-A03B-CF81C67EDB5A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "901"
+            endingLineNumber = "901"
+            landmarkName = "MultiImages::getInitialFeaturePairs(_match_pair)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "164DF858-0EBB-4FE1-99BB-2102CCA87628"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "927"
+            endingLineNumber = "927"
+            landmarkName = "MultiImages::getInitialFeaturePairs(_match_pair)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9FB1341-0FFA-4E80-893B-04BC85B6CE6D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "926"
+            endingLineNumber = "926"
+            landmarkName = "MultiImages::getInitialFeaturePairs(_match_pair)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BA3BEAD-D9A9-408B-8173-798FA683EB73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "929"
+            endingLineNumber = "929"
+            landmarkName = "MultiImages::getInitialFeaturePairs(_match_pair)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E04503A-6D56-464B-9D6E-3E42524AFF37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "819"
+            endingLineNumber = "819"
+            landmarkName = "MultiImages::getFeaturePairsBySequentialRANSAC(_match_pair, _X, _Y, _initial_indices)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49B72E0E-D8B7-48A2-87C6-DBC3116E68E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "822"
+            endingLineNumber = "822"
+            landmarkName = "MultiImages::getFeaturePairsBySequentialRANSAC(_match_pair, _X, _Y, _initial_indices)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A9CF2F9-D0B2-426A-8802-7A319E5FBD7E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "907"
+            endingLineNumber = "907"
+            landmarkName = "MultiImages::getInitialFeaturePairs(_match_pair)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2A9CF2F9-D0B2-426A-8802-7A319E5FBD7E - 1a722da42e9b56d4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultiImages::getInitialFeaturePairs(std::__1::pair&lt;int, int&gt; const&amp;) const"
+                  moduleName = "UglyMan_NISwGSP_Stitching"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tobias/Documents/NISwGSP/UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "907"
+                  endingLineNumber = "907"
+                  offsetFromSymbolStart = "1079">
+               </Location>
+               <Location
+                  uuid = "2A9CF2F9-D0B2-426A-8802-7A319E5FBD7E - 1a722da42e9b56d4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultiImages::getInitialFeaturePairs(std::__1::pair&lt;int, int&gt; const&amp;) const"
+                  moduleName = "UglyMan_NISwGSP_Stitching"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tobias/Documents/NISwGSP/UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "907"
+                  endingLineNumber = "907"
+                  offsetFromSymbolStart = "1648">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C55B8EF9-57CE-447A-B4EE-891500491CCC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "849"
+            endingLineNumber = "849"
+            landmarkName = "MultiImages::getFeaturePairsBySequentialRANSAC(_match_pair, _X, _Y, _initial_indices)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1646294F-0CA6-4519-9806-A4CF266A4399"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "830"
+            endingLineNumber = "830"
+            landmarkName = "MultiImages::getFeaturePairsBySequentialRANSAC(_match_pair, _X, _Y, _initial_indices)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6B5E212-F3F1-4509-837D-04E39B2A2FAA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "829"
+            endingLineNumber = "829"
+            landmarkName = "MultiImages::getFeaturePairsBySequentialRANSAC(_match_pair, _X, _Y, _initial_indices)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F35B8919-EB99-407D-9D8B-38C96FC53812"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "831"
+            endingLineNumber = "831"
+            landmarkName = "MultiImages::getFeaturePairsBySequentialRANSAC(_match_pair, _X, _Y, _initial_indices)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4A0CFDE-08E4-4A0E-8F19-316E0D5346A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "994"
+            endingLineNumber = "994"
+            landmarkName = "MultiImages::textureMapping(_vertices, _target_size, _blend_method, _warp_images)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2311825-6025-4E9D-9607-D6CDFA2E3F9C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Feature/MultiImages.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "965"
+            endingLineNumber = "965"
+            landmarkName = "MultiImages::textureMapping(_vertices, _target_size, _blend_method, _warp_images)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2FC9B41-6DEA-4233-9162-E05BD8C75F81"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UglyMan_NISwGSP_Stitching/Stitching/NISwGSP_Stitching.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "NISwGSP_Stitching::solve(_blend_method)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

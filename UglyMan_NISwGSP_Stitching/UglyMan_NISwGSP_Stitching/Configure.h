@@ -22,6 +22,7 @@ using namespace std;
 #include "opencv2/core/core.hpp"
 #include "opencv2/highgui/highgui.hpp"
 #include "opencv2/imgproc/imgproc.hpp"
+#include "opencv2/ximgproc.hpp"
 using namespace cv;
 
 #include <eigen3/Eigen/SVD>
@@ -43,8 +44,9 @@ const double APAP_GAMMA = 0.0015;
 const double APAP_SIGMA = 8.5;
 
 /*** matching method ***/
-const string FEATURE_RATIO_TEST_THRESHOLD_STRING = "15e-1";
-const double FEATURE_RATIO_TEST_THRESHOLD = atof(FEATURE_RATIO_TEST_THRESHOLD_STRING.c_str());
+//const string FEATURE_RATIO_TEST_THRESHOLD_STRING = "15e-1";
+//const double FEATURE_RATIO_TEST_THRESHOLD = atof(FEATURE_RATIO_TEST_THRESHOLD_STRING.c_str());
+const double FEATURE_RATIO_TEST_THRESHOLD = 15e-1;
 
 /*** homography based ***/
 const double GLOBAL_HOMOGRAPHY_MAX_INLIERS_DIST   = 5.;

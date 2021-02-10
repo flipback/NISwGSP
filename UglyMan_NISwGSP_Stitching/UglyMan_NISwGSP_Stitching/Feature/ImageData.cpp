@@ -7,6 +7,7 @@
 //
 
 #include "ImageData.h"
+using namespace cv::ximgproc;
 
 LineData::LineData(const Point2 & _a,
                    const Point2 & _b,
@@ -85,11 +86,14 @@ const Mat & ImageData::getGreyImage() const {
 const vector<LineData> & ImageData::getLines() const {
     if(img_lines.empty()) {
         const Mat & grey_image = getGreyImage();
+        // PROBLEM: The function/feature is not implemented) Implementation has been removed due original code license issues in function 'LineSegmentDetectorImpl'
         Ptr<LineSegmentDetector> ls = createLineSegmentDetector(LSD_REFINE_STD);
+        //Ptr<FastLineDetector> ls = createFastLineDetector();
         
         vector<Vec4f>  lines;
         vector<double> lines_width, lines_prec, lines_nfa;
         ls->detect(grey_image, lines, lines_width, lines_prec, lines_nfa);
+        //ls->detect(grey_image, lines);
         
         vector<double> lines_length;
         vector<Point2> lines_points[2];

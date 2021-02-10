@@ -22,6 +22,8 @@ vector<string> getImageFileFullNamesInDir(const string & dir_name) {
         ".sr", ".ras",
         ".tiff", ".tif" };
     
+    dir = opendir(dir_name.c_str());
+    
     if((dir = opendir (dir_name.c_str())) != NULL) {
         while((ent = readdir (dir)) != NULL) {
             string file = string(ent->d_name);

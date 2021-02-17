@@ -14,7 +14,7 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
 
-    //omp_set_num_threads(1);
+    omp_set_num_threads(1);
     Eigen::initParallel(); /* remember to turn off "Hardware Multi-Threading */
     cout << "nThreads = " << Eigen::nbThreads() << endl;
     cout << "[#Images : " << argc - 1 << "]" << endl;

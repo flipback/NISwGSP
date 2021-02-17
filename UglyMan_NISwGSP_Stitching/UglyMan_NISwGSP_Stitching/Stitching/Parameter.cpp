@@ -126,6 +126,11 @@ Parameter::Parameter(const string & _file_name) {
             }
             cout << endl;
         }
+        
+        cout << "image_file_full_names = " << endl;
+        for(int i = 0; i < image_file_full_names.size(); ++i) {
+            cout << image_file_full_names[i] << endl;
+        }
 #endif
     }
 }

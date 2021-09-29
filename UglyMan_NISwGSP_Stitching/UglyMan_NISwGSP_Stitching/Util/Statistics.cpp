@@ -6,6 +6,7 @@
 //  Copyright (c) 2015 nothinglo. All rights reserved.
 //
 
+#include <algorithm>
 #include "Statistics.h"
 
 template <typename T>

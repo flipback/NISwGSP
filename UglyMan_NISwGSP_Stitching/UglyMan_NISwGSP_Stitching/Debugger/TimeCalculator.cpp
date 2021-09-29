@@ -7,14 +7,14 @@
 //
 
 #include "TimeCalculator.h"
-
+#include "chrono"
 void TimeCalculator::start() {
-    begin_time = omp_get_wtime();
+    begin_time = chrono::steady_clock::now().time_since_epoch().count();
 }
 double TimeCalculator::end(const string output) const {
-    double result = omp_get_wtime() - begin_time;
+    double result = chrono::steady_clock::now().time_since_epoch().count()- begin_time;
     if(output.empty() == false) {
-        printf("[TIME] %.4fs : %s\n", result, output.c_str());
+        printf("[TIME] %.4fs : %s\n", result / 1'000'000'000, output.c_str());
     }
     return result;
 }

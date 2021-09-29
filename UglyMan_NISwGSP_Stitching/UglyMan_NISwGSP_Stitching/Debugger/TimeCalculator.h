@@ -12,7 +12,7 @@
 #include <iostream>
 #include <string>
 #include <stdio.h>
-#include <omp.h> /* wall-clock time */
+//#include <omp.h> /* wall-clock time */
 
 using namespace::std;
 

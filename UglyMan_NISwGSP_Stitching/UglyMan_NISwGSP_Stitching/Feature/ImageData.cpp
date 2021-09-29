@@ -7,6 +7,7 @@
 //
 
 #include "ImageData.h"
+#include <opencv2/ximgproc/fast_line_detector.hpp>
 using namespace cv::ximgproc;
 
 LineData::LineData(const Point2 & _a,
@@ -87,13 +88,13 @@ const vector<LineData> & ImageData::getLines() const {
     if(img_lines.empty()) {
         const Mat & grey_image = getGreyImage();
         // PROBLEM: The function/feature is not implemented) Implementation has been removed due original code license issues in function 'LineSegmentDetectorImpl'
-        Ptr<LineSegmentDetector> ls = createLineSegmentDetector(LSD_REFINE_STD);
-        //Ptr<FastLineDetector> ls = createFastLineDetector();
+//        Ptr<LineSegmentDetector> ls = createLineSegmentDetector(LSD_REFINE_STD);
+        Ptr<FastLineDetector> ls = createFastLineDetector();
         
         vector<Vec4f>  lines;
-        vector<double> lines_width, lines_prec, lines_nfa;
-        ls->detect(grey_image, lines, lines_width, lines_prec, lines_nfa);
-        //ls->detect(grey_image, lines);
+//        vector<double> lines_width, lines_prec, lines_nfa;
+//        ls->detect(grey_image, lines, lines_width, lines_prec, lines_nfa);
+        ls->detect(grey_image, lines);
         
         vector<double> lines_length;
         vector<Point2> lines_points[2];
@@ -110,13 +111,13 @@ const vector<LineData> & ImageData::getLines() const {
             lines_length.emplace_back(norm(lines_points[1][i] - lines_points[0][i]));
         }
         
-        const Statistics width_statistics(lines_width), length_statistics(lines_length);
+        const Statistics /*width_statistics(lines_width), */length_statistics(lines_length);
         for(int i = 0; i < line_count; ++i) {
-            if( width_filter( lines_width[i],  width_statistics) &&
+            if( /*width_filter( lines_width[i],  width_statistics) &&*/
                length_filter(lines_length[i], length_statistics)) {
                 img_lines.emplace_back(lines_points[0][i],
                                        lines_points[1][i],
-                                       lines_width[i],
+                                       1,
                                        lines_length[i]);
             }
         }
